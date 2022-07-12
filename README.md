@@ -1,6 +1,8 @@
 ## Basic React Carousel
 
-After looking up react image carousel component libraries, I felt like I was putting the cart before the horse and wanted to try to just a simple one for my own use and here is the result.
+After looking up react image carousel component libraries, I felt like I was putting the cart before the horse and wanted to try to just a simple one for my own use and [here is the result!](https://basic-react-carousel.vercel.app/)
+
+
 
 Using:
 
